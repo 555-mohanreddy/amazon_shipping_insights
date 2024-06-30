@@ -29,6 +29,8 @@ He has given us csv files from which we have to create a Dashboard for his quick
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
 
+<img src=' '>
+
 
 
 
