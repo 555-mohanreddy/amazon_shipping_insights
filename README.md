@@ -29,7 +29,7 @@ He has given us csv files from which we have to create a Dashboard for his quick
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
 
-<img src=' '>
+<img src='https://github.com/555-mohanreddy/amazon_shipping_insights/blob/main/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG'>
 
 
 
